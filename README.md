@@ -1,4 +1,4 @@
-# hello_there_animation
+# Flutter_animations
 
 A new Flutter project.
 
